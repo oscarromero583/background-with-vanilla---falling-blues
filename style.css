@@ -14,3 +14,12 @@ h2 {
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
 }
+
+.wrapper {
+    overflow: hidden;
+    background-color: #111;
+}
+
+canvas{
+    display: block;
+}
